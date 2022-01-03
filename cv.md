@@ -1,4 +1,4 @@
-###Sergej Snow
+Sergej Snow
 Strasbourg, France
 
     Phone: Private
