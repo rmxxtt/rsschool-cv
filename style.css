@@ -99,3 +99,7 @@ footer img {
     border-radius: 50% 0 0 0;
     box-shadow: 10px 10px #1a2746, 20px 20px #535353, 30px 30px #ff000040;
 }
+
+.hljs {
+    background: #0d0d0d29 !important;
+}
