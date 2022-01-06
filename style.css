@@ -1,7 +1,7 @@
 body {
     display: flex;
     justify-content: center;
-    background-color: #0f172a;
+    background-image: linear-gradient(to left bottom, #113266, #122b56, #122447, #111e38, #0f172a);
     font-family: 'Bebas Neue', cursive;
 }
 
@@ -98,4 +98,8 @@ footer img {
     height: 100px;
     border-radius: 50% 0 0 0;
     box-shadow: 10px 10px #1a2746, 20px 20px #535353, 30px 30px #ff000040;
+}
+
+.hljs {
+    background: #0d0d0d29 !important;
 }
