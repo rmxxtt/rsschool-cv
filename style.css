@@ -1,7 +1,7 @@
 body {
     display: flex;
     justify-content: center;
-    background-color: #0f172a;
+    background-image: linear-gradient(to left bottom, #113266, #122b56, #122447, #111e38, #0f172a);
     font-family: 'Bebas Neue', cursive;
 }
 
